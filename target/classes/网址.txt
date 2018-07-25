@@ -1,0 +1,5 @@
+https://www.cnblogs.com/xrog/p/7064397.html?utm_source=debugrun&utm_medium=referral  框架篇：Spring+SpringMVC+Mybatis整合开发
+
+https://www.cnblogs.com/hellokitty1/p/5230392.html  Mybatis3+Spring4+SpringMVC4 整合
+
+https://blog.csdn.net/a15920804969/article/details/79199899 SpringMVC学习(四)——Spring、MyBatis和SpringMVC的整合
